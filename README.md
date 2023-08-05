@@ -45,3 +45,5 @@ You can start editing the page by modifying src/App.jsx. The page auto-updates a
 
 Some Screenshot of my project :-
 ![Screenshot (257)](https://github.com/ankitbarnwal123/nike-store-ecommerce-website/assets/121225831/7d38782d-ec60-4c41-aeab-953bf35119a7)
+
+![Screenshot (258)](https://github.com/ankitbarnwal123/nike-store-ecommerce-website/assets/121225831/2d3ceeb9-0c36-4e7c-bbee-8e758ef143e0)
